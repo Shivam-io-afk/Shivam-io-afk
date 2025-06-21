@@ -10,21 +10,4 @@
 # Working On -
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivam-io-afk&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shivam-io-afk&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-io-afk&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivam-io-afk&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
-
-###
-
-<br clear="both">
-
-
-###
-
 </div>
